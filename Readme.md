@@ -10,7 +10,7 @@
 - Array içerisindeki bir ogenin bilgisini değiştirme
 
 # Dizi (Array) Liste ile alakalı işlemler
-- Diziye (Array) yeni eleman eklemek, çıkartmak , güncelleme
+- Diziye (Array) yeni eleman eklemek, çıkartma , güncelleme
 
 # Array Methodlarının Kullanımı ve Array içerisinde array oluşturma
 - Array Metotları - Array içerisinde array oluşturma
